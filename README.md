@@ -6,7 +6,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&duration=6000&pause=2000&color=297DF6&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=I+don't+know+if+I+can+believe+in+something+that+might+not+even+exist.;Then+believe+in+me." alt="Typing SVG" /></a>
 </p>
 
-
 <p align="center">
     <img width="500" src=https://pbs.twimg.com/media/HPNMKsZWIAEzib_?format=jpg&name=large>
 </p>
