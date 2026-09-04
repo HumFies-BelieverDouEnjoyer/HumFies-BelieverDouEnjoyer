@@ -19,11 +19,9 @@ AC : https://x.com/ThereIsFreezy/status/2086094802194440626?s=20
 </p>
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=92bypx03mce3kzum5flhvab24&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=92bypx03mce3kzum5flhvab24&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=700&size=15&duration=3000&pause=2500&color=A7C5F6&center=true&vCenter=true&multiline=true&width=500&height=140&lines=%22O+holy+water%2C+rain+down+on+me;Only+to+you%2C+I+am+faithful%2C+though+the+love+you+give+is+painful;Let's+drown+for+all+eternity;Cry+holy+tears+together%2C+so+we+can+live+forever;I+won't+go+away%2C+won't+the+love+remain%3F;I+won't+last+another+day+without+you%22" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=700&size=15&duration=3000&pause=2500&color=A7C5F6&center=true&vCenter=true&multiline=true&width=500&height=140&lines=%22O+holy+water%2C+rain+down+on+me;Only+to+you%2C+I+am+faithful%2C+though+the+love+you+give+is+painful;Let's+drown+for+all+eternity;Cry+holy+tears+together%2C+so+we+can+live+forever;I+won't+go+away%2C+won't+the+love+remain%3F;I+won't+last+another+day+without+you%22" alt="Typing SVG" /></a>
+c+h freely <3
 </p>
